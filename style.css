@@ -459,7 +459,12 @@ section.content-section{
     visibility:visible;
     transform:translate(-50%,-50%) scale(1);
 }
-
+.project-link{
+    text-decoration:none;
+    color:inherit;
+    display:block;
+    height:100%;
+}
 footer{
     text-align:center;
     padding:40px 20px;
